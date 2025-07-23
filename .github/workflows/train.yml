@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - classification_branch
-  workflow_dispatch:
 
 jobs:
   train:
